@@ -1,0 +1,39 @@
+body {
+    max-width: 640px;
+    margin: 40px auto;
+    padding: 20px;
+    color: #102336;
+    background-color: #f2f6fb;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #00375e;
+}
+
+#topic, #reply1, #reply2 {
+    margin: 12px 0;
+    padding: 16px;
+    background-color: #ffffff;
+    border: 1px solid #9bb0bf;
+    border-radius: 8px;
+}
+
+textarea {
+    width: 95%;
+    height: 110px;
+    padding: 8px;
+}
+
+button {
+    margin: 10px 10px 0 0;
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: #00375e;
+    border: 1px solid #2285ae;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #1673b6;
+}
